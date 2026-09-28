@@ -1,0 +1,1 @@
+package com.sk.talenthub.skill.repository;
